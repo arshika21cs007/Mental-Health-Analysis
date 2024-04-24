@@ -17,8 +17,8 @@
 <h2>Analysis Techniques</h2>
 
  <li><b>Exploratory Data Analysis (EDA):</b> Visualize data to uncover patterns and relationships.</li>
- <li> <em> Statistical Modeling:</em> Apply statistical models to identify factors influencing mental health.</li>
- <li><em>Machine Learning:</em> Develop predictive models to forecast mental health outcomes.</li>
+ <li> <b> Statistical Modeling:</b> Apply statistical models to identify factors influencing mental health.</li>
+ <li><b>Machine Learning:</b> Develop predictive models to forecast mental health outcomes.</li>
 
  
  
