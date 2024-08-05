@@ -4,7 +4,7 @@
  
  
        
-<img src="Mental Health Analysis.jpg" width="50%" style="display: block; margin: 0 auto;">
+<img src="Mental Health Analysis.jpeg" width="50%" style="display: block; margin: 0 auto;">
  
 
  <h2>Overview</h2>
