@@ -4,7 +4,7 @@
  
  
        
-<img src="https://th.bing.com/th/id/R.aa495e3eb272e071ff3b9ec9fb07861d?rik=p0EM4gAtyah3Zg&riu=http%3a%2f%2fulearning.com%2fwp-content%2fuploads%2f2017%2f07%2fmental-health-assessment-730x410.jpg&ehk=O6893hu9tTD7t4LrROrolqeZDcNO2bwsJDo%2fvRRie%2bw%3d&risl=&pid=ImgRaw&r=0&sres=1&sresct=1" width="50%" style="display: block; margin: 0 auto;">
+<img src="Mental Health Analysis.jpg" width="50%" style="display: block; margin: 0 auto;">
  
 
  <h2>Overview</h2>
