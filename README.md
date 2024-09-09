@@ -2,9 +2,11 @@
     <centre><h1>Mental Health Analysis</centre><br />
        </div>
  
- 
+  <p align="center">
+   <img src="Mental Health Analysis.jpeg" width="500" height="300" >
+ </p>
        
-<img src="Mental Health Analysis.jpeg" width="40%"  style="display: block; margin: 0 auto;">
+
  
 
  <h2>Overview</h2>
