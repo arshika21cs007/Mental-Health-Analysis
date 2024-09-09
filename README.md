@@ -3,23 +3,22 @@
        </div>
  
   <p align="center">
-   <img src="Mental Health Analysis.jpeg" width="500" height="300" >
+   <img src="Mental Health Analysis.png" width="500" height="300" >
  </p>
        
 
  
 
- <h2>Overview</h2>
- 
- This project aims to analyze mental health-related data to gain insights into various factors affecting mental well-being. By leveraging data science techniques, we seek to understand patterns, trends, and correlations within the data to provide valuable insights for mental health professionals, policymakers, and individuals seeking to improve mental wellness.
- 
- 
- 
-<h2>Analysis Techniques</h2>
+## Overview
 
- <li><b>Exploratory Data Analysis (EDA):</b> Visualize data to uncover patterns and relationships.</li>
- <li> <b> Statistical Modeling:</b> Apply statistical models to identify factors influencing mental health.</li>
- <li><b>Machine Learning:</b> Develop predictive models to forecast mental health outcomes.</li>
+This project aims to analyze mental health-related data to uncover patterns, trends, and correlations. By applying data science techniques, we seek to provide valuable insights for mental health professionals, policymakers, and individuals aiming to enhance mental wellness.
+
+## Analysis Techniques
+
+- **Exploratory Data Analysis (EDA):** Visualize data to reveal patterns and relationships.
+- **Statistical Modeling:** Apply statistical models to identify factors affecting mental health.
+- **Machine Learning:** Develop predictive models to forecast mental health outcomes.
+
 
  
  
